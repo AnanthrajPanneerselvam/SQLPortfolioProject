@@ -1,5 +1,5 @@
 
---Seleccting the needed Columns
+--Selecting the needed Columns
 
 SELECT location, date, total_cases, new_cases, total_deaths, population
 FROM PortfolioProject..CovidDeaths
